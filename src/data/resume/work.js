@@ -47,7 +47,7 @@ const work = [
     name: 'Centro Sotelo',
     position: 'Ssr',
     url: '/',
-    startDate: '2019-01-01',
+    startDate: '2016-01-01',
     summary: 'General manager at medical office',
     highlights: [
       'Reception and main point of contact for patients and visitors.',
