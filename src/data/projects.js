@@ -17,9 +17,9 @@ const data = [
     image: '/images/projects/petshop.png',
     date: '2022-11-20',
     desc:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. '
-      + 'Modi doloremque suscipit similique fugiat alias dignissimos '
-      + 'quos, odit debitis, tenetur nostrum reiciendis architecto!',
+      'React + Material UI - Mobile First frontend for '
+      + 'a petshop e-commerce web that connects to backend '
+      + 'through apis.',
   },
   {
     title: 'E-Wallet',
