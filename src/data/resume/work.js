@@ -43,21 +43,6 @@ const work = [
       'Emerging knowledge of software applications and technical processes within a technical discipline (e.g., cloud, machine learning, mobile).',
     ],
   },
-  // {
-  //   name: 'Centro Sotelo',
-  //   position: 'Ssr',
-  //   url: '/',
-  //   startDate: '2016-01-01',
-  //   summary: 'General manager at medical office',
-  //   highlights: [
-  //     'Reception and main point of contact for patients and visitors.',
-  //     'Responsible for emails, schedules, and phone calls.',
-  //     'Handling agreements and billing for health insurance companies and prepaid medical companies.',
-  //     'Processing payments to employed healthcare professionals.',
-  //     'Invoicing and managing financial accounts.',
-  //     'Selection of healthcare professionals for recruitment.',
-  //   ],
-  // },
   {
     name: 'Tesis S.R.L.',
     position: 'Ssr',
